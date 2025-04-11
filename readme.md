@@ -2,7 +2,8 @@
 # By JOSEPH KORIVI
 
 - this file consists of 20 Awesome Patterns 
---- including 
+--
+- including 
 - star patterns
 - Number Patterns
 - Alphabet Patterns 
